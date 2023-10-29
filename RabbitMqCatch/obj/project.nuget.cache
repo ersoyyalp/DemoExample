@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8txmRhFSP/rLgu1T1xnGZRopQmLCsJU5o1j/OJSOosheNn6qzwll7sYE1sBeSBWxw2bdnAgG9ixG5UWt3pnM7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ersoy\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\ersoy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ersoy\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

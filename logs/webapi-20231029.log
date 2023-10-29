@@ -1,0 +1,35 @@
+2023-10-29 21:56:17.025 +03:00  INF  Now listening on: https://localhost:7247
+2023-10-29 21:56:17.051 +03:00  INF  Now listening on: http://localhost:5003
+2023-10-29 21:56:17.053 +03:00  INF  Application started. Press Ctrl+C to shut down.
+2023-10-29 21:56:17.053 +03:00  INF  Hosting environment: Development
+2023-10-29 21:56:17.053 +03:00  INF  Content root path: C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SerilogExample
+2023-10-29 21:56:17.981 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger - -
+2023-10-29 21:56:18.077 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger - - - 301 0 - 97.0760ms
+2023-10-29 21:56:18.099 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/index.html - -
+2023-10-29 21:56:18.331 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/index.html - - - 200 - text/html;charset=utf-8 231.9002ms
+2023-10-29 21:56:18.335 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/swagger-ui.css - -
+2023-10-29 21:56:18.336 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - -
+2023-10-29 21:56:18.336 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/swagger-ui-standalone-preset.js - -
+2023-10-29 21:56:18.336 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/swagger-ui-bundle.js - -
+2023-10-29 21:56:18.362 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 24.8970ms
+2023-10-29 21:56:18.377 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_vs/browserLink - -
+2023-10-29 21:56:18.379 +03:00  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-10-29 21:56:18.379 +03:00  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-10-29 21:56:18.379 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/swagger-ui.css - - - 200 144929 text/css 44.5280ms
+2023-10-29 21:56:18.379 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 43.7212ms
+2023-10-29 21:56:18.402 +03:00  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-10-29 21:56:18.402 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 66.4602ms
+2023-10-29 21:56:18.422 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.1720ms
+2023-10-29 21:56:18.682 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - -
+2023-10-29 21:56:18.741 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/favicon-32x32.png - -
+2023-10-29 21:56:18.744 +03:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-10-29 21:56:18.744 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/favicon-32x32.png - - - 200 628 image/png 3.1850ms
+2023-10-29 21:56:18.859 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 176.1660ms
+2023-10-29 21:56:27.000 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/WeatherForecast - -
+2023-10-29 21:56:27.008 +03:00  INF  Executing endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-29 21:56:27.026 +03:00  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogExample.WeatherForecast] Get() on controller SerilogExample.Controllers.WeatherForecastController (SerilogExample).
+2023-10-29 21:56:27.029 +03:00  INF  Demo Example executing...
+2023-10-29 21:56:27.035 +03:00  INF  Executing ObjectResult, writing value of type 'SerilogExample.WeatherForecast[]'.
+2023-10-29 21:56:27.055 +03:00  INF  Executed action SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample) in 22.9135ms
+2023-10-29 21:56:27.056 +03:00  INF  Executed endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-29 21:56:27.057 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/WeatherForecast - - - 200 - application/json;+charset=utf-8 56.1358ms

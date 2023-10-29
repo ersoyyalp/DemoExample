@@ -1,0 +1,12 @@
+D:\Projeler\AuthServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Projeler\AuthServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Projeler\AuthServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Projeler\AuthServer\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
