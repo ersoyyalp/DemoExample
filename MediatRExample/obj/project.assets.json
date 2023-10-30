@@ -602,11 +602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
+      "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
       "projectName": "MediatRExample",
-      "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
+      "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
       "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\MediatRExample\\obj\\",
+      "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\MediatRExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

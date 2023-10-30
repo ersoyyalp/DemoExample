@@ -3716,11 +3716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
+      "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
       "projectName": "AuthServer.Data",
-      "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
+      "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
       "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Data\\obj\\",
+      "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3737,8 +3737,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj": {
-              "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj"
+            "C:\\Program Files\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj": {
+              "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj"
             }
           }
         }

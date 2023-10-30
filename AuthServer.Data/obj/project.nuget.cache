@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sALhlwr4Rj1tetl98xQLbNGJEusCQoa+bGwtIm4TsO+Q2Dgas4DmM85fiJFVczaDUnnC/YGF9GwHnj0Q4PnfVA==",
+  "dgSpecHash": "0X8jiHUG+vdVcRux5KgKmnqT0Mwlcdmd7oHh688fIVuIT6vjpluGDEFwyRiAUFiGCCH3Uo0wp4cvjROPN0eyaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Data\\AuthServer.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

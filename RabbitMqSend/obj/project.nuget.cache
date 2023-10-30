@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "erQKqqKaz5oa/EKcwaykh2CoHIHlTPtG1nt587EoowUQOb2YyGksIP57jbDkXtReTWVRWW59BQG7c5guIzC+GQ==",
+  "dgSpecHash": "F9bVYE7Z9A0DU2n3qiien4rcrt5ctjmO0QhsAun/H0IQgv7Zv+FOwMhb//1TWC8jvGg5eiS0wikX6iDZpT2RCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

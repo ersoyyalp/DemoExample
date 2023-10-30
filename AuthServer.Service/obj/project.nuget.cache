@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "INYrHrIjc9sbH9N/37ItzXI6HQx9Ex0pA/mch+3o/ajbiwMI8zmnUX8dIvV6lWUb20pa1/4OkA4l3eQyaaeAug==",
+  "dgSpecHash": "tC3VeCWd5VDXjRbzy8NemZebOOcMK+Ph6E0oMUBq4yi+/T8I07+Lo363RiKjQL1L/Mdo18mbtIiZcNLLcTzV+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

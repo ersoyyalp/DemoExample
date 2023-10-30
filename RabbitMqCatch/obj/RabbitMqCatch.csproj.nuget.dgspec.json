@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj": {}
+    "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj": {
+    "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
+        "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
         "projectName": "RabbitMqCatch",
-        "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
+        "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
         "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\obj\\",
+        "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

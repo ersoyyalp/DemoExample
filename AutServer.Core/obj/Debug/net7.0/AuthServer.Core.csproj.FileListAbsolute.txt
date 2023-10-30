@@ -58,3 +58,18 @@ C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\AutServer.Core\obj\Debug
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\refint\AuthServer.Core.dll
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.pdb
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\ref\AuthServer.Core.dll
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\bin\Debug\net7.0\AuthServer.Core.deps.json
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\bin\Debug\net7.0\AuthServer.Core.dll
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\bin\Debug\net7.0\AuthServer.Core.pdb
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\bin\Debug\net7.0\SharedLibrary.dll
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\bin\Debug\net7.0\SharedLibrary.pdb
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.AssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.csproj.CopyComplete
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.dll
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\refint\AuthServer.Core.dll
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\AuthServer.Core.pdb
+C:\Program Files\DemoProjectAssa\Demo\AutServer.Core\obj\Debug\net7.0\ref\AuthServer.Core.dll

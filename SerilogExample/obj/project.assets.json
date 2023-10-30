@@ -1538,11 +1538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
+      "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
       "projectName": "SerilogExample",
-      "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
+      "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
       "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SerilogExample\\obj\\",
+      "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SerilogExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

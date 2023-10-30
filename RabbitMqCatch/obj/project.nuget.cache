@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8txmRhFSP/rLgu1T1xnGZRopQmLCsJU5o1j/OJSOosheNn6qzwll7sYE1sBeSBWxw2bdnAgG9ixG5UWt3pnM7w==",
+  "dgSpecHash": "Y4LJ02mkgqFxr2MPptGifLVAjxf4cZxxj942DjwgPyL1MLFf9hpN1ITrmCQl+n+bQs0l+9vMObB2+uh5ssJ7Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqCatch\\RabbitMqCatch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

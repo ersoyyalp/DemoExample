@@ -17,9 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqSend", "RabbitMqSen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqCatch", "RabbitMqCatch\RabbitMqCatch.csproj", "{4CFB4915-FBDF-4D94-B683-2CC9C211986D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatRExample", "MediatRExample\MediatRExample.csproj", "{14FDE95C-13A4-4B42-8CCA-6213397728DC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogExample", "SerilogExample\SerilogExample.csproj", "{DE1CCE82-DDF7-4C5B-9B80-58811E79D0D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogExample", "SerilogExample\SerilogExample.csproj", "{DE1CCE82-DDF7-4C5B-9B80-58811E79D0D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +53,6 @@ Global
 		{4CFB4915-FBDF-4D94-B683-2CC9C211986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CFB4915-FBDF-4D94-B683-2CC9C211986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CFB4915-FBDF-4D94-B683-2CC9C211986D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14FDE95C-13A4-4B42-8CCA-6213397728DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14FDE95C-13A4-4B42-8CCA-6213397728DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14FDE95C-13A4-4B42-8CCA-6213397728DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14FDE95C-13A4-4B42-8CCA-6213397728DC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE1CCE82-DDF7-4C5B-9B80-58811E79D0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DE1CCE82-DDF7-4C5B-9B80-58811E79D0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1CCE82-DDF7-4C5B-9B80-58811E79D0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU

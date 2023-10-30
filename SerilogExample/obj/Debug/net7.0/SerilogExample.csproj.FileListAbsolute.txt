@@ -41,3 +41,46 @@ C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SerilogExample\obj\Debug
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.pdb
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.genruntimeconfig.cache
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\ref\SerilogExample.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\appsettings.Development.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\appsettings.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\SerilogExample.exe
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\SerilogExample.deps.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\SerilogExample.runtimeconfig.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\SerilogExample.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\SerilogExample.pdb
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.csproj.AssemblyReference.cache
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.AssemblyInfoInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.AssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.csproj.CoreCompileInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets\msbuild.SerilogExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets\msbuild.build.SerilogExample.props
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SerilogExample.props
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SerilogExample.props
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets.build.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\staticwebassets.development.json
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\scopedcss\bundle\SerilogExample.styles.css
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.csproj.CopyComplete
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\refint\SerilogExample.dll
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.pdb
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\SerilogExample.genruntimeconfig.cache
+C:\Program Files\DemoProjectAssa\Demo\SerilogExample\obj\Debug\net7.0\ref\SerilogExample.dll

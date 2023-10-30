@@ -32,3 +32,20 @@ C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqSend\obj\Debug\net7.0\refint\Rab
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.pdb
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.genruntimeconfig.cache
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqSend\obj\Debug\net7.0\ref\RabbitMqSend.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMqSend.exe
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMqSend.deps.json
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMqSend.runtimeconfig.json
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMqSend.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMqSend.pdb
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.csproj.AssemblyReference.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.AssemblyInfoInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.AssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.csproj.CoreCompileInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.csproj.CopyComplete
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\refint\RabbitMqSend.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.pdb
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\RabbitMqSend.genruntimeconfig.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqSend\obj\Debug\net7.0\ref\RabbitMqSend.dll

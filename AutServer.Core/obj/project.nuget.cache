@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1DAliWgF7g0Q2fc7VtbjBjkL+2iCHAxb/IRoqDIyE+BJvel3CVC4HsOFFN36ls41KWtscYJLYbg5gKrJZ5eJg==",
+  "dgSpecHash": "91dr7ETqE0ZhZZy0nk6CWsK7Wdh8RNkie1LKguKSHDS916LYV50DvSyZ0ZmyWCT3Y6oQC7tqlGOj1mZHKvWkgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AutServer.Core\\AuthServer.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.9\\microsoft.aspnetcore.authentication.jwtbearer.7.0.9.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",

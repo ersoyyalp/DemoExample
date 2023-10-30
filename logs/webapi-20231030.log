@@ -1,0 +1,42 @@
+2023-10-30 16:23:33.026 +03:00  INF  Now listening on: https://localhost:7247
+2023-10-30 16:23:33.049 +03:00  INF  Now listening on: http://localhost:5003
+2023-10-30 16:23:33.051 +03:00  INF  Application started. Press Ctrl+C to shut down.
+2023-10-30 16:23:33.051 +03:00  INF  Hosting environment: Development
+2023-10-30 16:23:33.052 +03:00  INF  Content root path: C:\Program Files\DemoProjectAssa\Demo\SerilogExample
+2023-10-30 16:23:33.728 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/index.html - -
+2023-10-30 16:23:33.983 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/index.html - - - 200 - text/html;charset=utf-8 257.9854ms
+2023-10-30 16:23:33.992 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - -
+2023-10-30 16:23:34.005 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 12.3896ms
+2023-10-30 16:23:34.015 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_vs/browserLink - -
+2023-10-30 16:23:34.040 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.0516ms
+2023-10-30 16:23:34.160 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - -
+2023-10-30 16:23:34.315 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 155.4361ms
+2023-10-30 16:23:37.785 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/WeatherForecast - -
+2023-10-30 16:23:37.796 +03:00  INF  Executing endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-30 16:23:37.809 +03:00  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogExample.WeatherForecast] Get() on controller SerilogExample.Controllers.WeatherForecastController (SerilogExample).
+2023-10-30 16:23:37.812 +03:00  INF  Demo Example executing...
+2023-10-30 16:23:37.819 +03:00  INF  Executing ObjectResult, writing value of type 'SerilogExample.WeatherForecast[]'.
+2023-10-30 16:23:37.838 +03:00  INF  Executed action SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample) in 23.7893ms
+2023-10-30 16:23:37.839 +03:00  INF  Executed endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-30 16:23:37.840 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/WeatherForecast - - - 200 - application/json;+charset=utf-8 54.8111ms
+2023-10-30 19:13:49.301 +03:00  INF  Now listening on: https://localhost:7247
+2023-10-30 19:13:49.327 +03:00  INF  Now listening on: http://localhost:5003
+2023-10-30 19:13:49.329 +03:00  INF  Application started. Press Ctrl+C to shut down.
+2023-10-30 19:13:49.329 +03:00  INF  Hosting environment: Development
+2023-10-30 19:13:49.329 +03:00  INF  Content root path: C:\Program Files\DemoProjectAssa\Demo\SerilogExample
+2023-10-30 19:13:50.388 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/index.html - -
+2023-10-30 19:13:50.770 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/index.html - - - 200 - text/html;charset=utf-8 383.4446ms
+2023-10-30 19:13:50.819 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_vs/browserLink - -
+2023-10-30 19:13:50.819 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - -
+2023-10-30 19:13:50.855 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 35.8181ms
+2023-10-30 19:13:50.872 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.2567ms
+2023-10-30 19:13:51.085 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - -
+2023-10-30 19:13:51.339 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 254.2923ms
+2023-10-30 19:14:47.386 +03:00  INF  Request starting HTTP/2 GET https://localhost:7247/WeatherForecast - -
+2023-10-30 19:14:47.405 +03:00  INF  Executing endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-30 19:14:47.418 +03:00  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogExample.WeatherForecast] Get() on controller SerilogExample.Controllers.WeatherForecastController (SerilogExample).
+2023-10-30 19:14:47.421 +03:00  INF  Demo Example executing...
+2023-10-30 19:14:47.428 +03:00  INF  Executing ObjectResult, writing value of type 'SerilogExample.WeatherForecast[]'.
+2023-10-30 19:14:47.456 +03:00  INF  Executed action SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample) in 31.2301ms
+2023-10-30 19:14:47.457 +03:00  INF  Executed endpoint 'SerilogExample.Controllers.WeatherForecastController.Get (SerilogExample)'
+2023-10-30 19:14:47.458 +03:00  INF  Request finished HTTP/2 GET https://localhost:7247/WeatherForecast - - - 200 - application/json;+charset=utf-8 71.4260ms

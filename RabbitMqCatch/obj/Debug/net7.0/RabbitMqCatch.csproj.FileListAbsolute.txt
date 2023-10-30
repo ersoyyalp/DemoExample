@@ -32,3 +32,20 @@ C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqCatch\obj\Debug\net7.0\refint\Ra
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.pdb
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.genruntimeconfig.cache
 C:\Users\ersoy\OneDrive\Masaüstü\Demo\RabbitMqCatch\obj\Debug\net7.0\ref\RabbitMqCatch.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMqCatch.exe
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMqCatch.deps.json
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMqCatch.runtimeconfig.json
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMqCatch.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMqCatch.pdb
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.csproj.AssemblyReference.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.AssemblyInfoInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.AssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.csproj.CoreCompileInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.csproj.CopyComplete
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\refint\RabbitMqCatch.dll
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.pdb
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\RabbitMqCatch.genruntimeconfig.cache
+C:\Program Files\DemoProjectAssa\Demo\RabbitMqCatch\obj\Debug\net7.0\ref\RabbitMqCatch.dll

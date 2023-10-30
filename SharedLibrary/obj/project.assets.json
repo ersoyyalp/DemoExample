@@ -420,11 +420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj",
+      "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj",
       "projectName": "SharedLibrary",
-      "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj",
+      "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj",
       "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SharedLibrary\\obj\\",
+      "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SharedLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

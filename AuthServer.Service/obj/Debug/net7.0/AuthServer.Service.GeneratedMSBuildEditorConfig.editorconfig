@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthServer.Service
-build_property.ProjectDir = C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\AuthServer.Service\
+build_property.ProjectDir = C:\Program Files\DemoProjectAssa\Demo\AuthServer.Service\

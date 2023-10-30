@@ -46,3 +46,15 @@ C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\refint\SharedLibrary.dll
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.pdb
 C:\Users\ersoy\OneDrive\Masaüstü\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\ref\SharedLibrary.dll
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\bin\Debug\net7.0\SharedLibrary.deps.json
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\bin\Debug\net7.0\SharedLibrary.dll
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\bin\Debug\net7.0\SharedLibrary.pdb
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfo.cs
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.dll
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\refint\SharedLibrary.dll
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\SharedLibrary.pdb
+C:\Program Files\DemoProjectAssa\Demo\SharedLibrary\obj\Debug\net7.0\ref\SharedLibrary.dll

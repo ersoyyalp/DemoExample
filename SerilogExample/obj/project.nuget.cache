@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "plumXC4YW/lAumPZggwyoTIQLQHH4UfD6nimF/ke0Glwn6GP86mkNH2bplyO2MSGCRgIGUNhLlygGlNn6PxuBg==",
+  "dgSpecHash": "TzpoYEnJZRI1AmxsO+rShHe/4fW7Vt4SjfgOpipXt2X+kyKuZDkai37mBOg8NE8uCMN4umqX9ognZ1e/Z+sldg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SerilogExample\\SerilogExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

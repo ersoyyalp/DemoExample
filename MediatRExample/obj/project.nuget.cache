@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g7/AOI+INpZJ5bDnFD2Uv4RWNLwjx3fVuCnzR6jmTLl0fKjkGSmbxTlicLD5OpVT7XaU8ABCF8pEcjVWg/LHOg==",
+  "dgSpecHash": "aOMJSrCZGs49G1iT/PxTyWaTMyZg145fV1QM/x1Wun13JsDQHJOVppK8sfblOwSf25yqPpiGlafwGJAYltUK4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
+  "projectFilePath": "C:\\Program Files\\DemoProjectAssa\\Demo\\MediatRExample\\MediatRExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ersoy\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\ersoy\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

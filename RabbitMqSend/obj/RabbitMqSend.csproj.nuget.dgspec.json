@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj": {}
+    "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj": {
+    "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
+        "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
         "projectName": "RabbitMqSend",
-        "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
+        "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\RabbitMqSend.csproj",
         "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\RabbitMqSend\\obj\\",
+        "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\RabbitMqSend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

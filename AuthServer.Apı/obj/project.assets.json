@@ -4285,11 +4285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Apı\\AuthServer.Apı.csproj",
+      "projectUniqueName": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Apı\\AuthServer.Apı.csproj",
       "projectName": "AuthServer.Apı",
-      "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Apı\\AuthServer.Apı.csproj",
+      "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Apı\\AuthServer.Apı.csproj",
       "packagesPath": "C:\\Users\\ersoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Apı\\obj\\",
+      "outputPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Apı\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4306,11 +4306,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj": {
-              "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj"
+            "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj": {
+              "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\AuthServer.Service\\AuthServer.Service.csproj"
             },
-            "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj": {
-              "projectPath": "C:\\Users\\ersoy\\OneDrive\\Masaüstü\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj"
+            "C:\\Program Files\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj": {
+              "projectPath": "C:\\Program Files\\DemoProjectAssa\\Demo\\SharedLibrary\\SharedLibrary.csproj"
             }
           }
         }
